@@ -52,5 +52,5 @@ export IDF_PATH='$HOME/esp-idf'
 10. Save and close the file.
 11. Restart your system.
 12. Done! esp-idf is successfully installed on your system.
-- Open terminal in your project and just type `idf` abd hit enter.
+- Open terminal in your project directory and just type `idf` and hit enter.
 - After that, idf is active in your project terminal.
